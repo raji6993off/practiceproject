@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: OpenEJB :: Web Examples :: Moviefun
+Implementation-Version: 1.1.0-SNAPSHOT
+Built-By: jayabr2
+Implementation-Vendor-Id: org.superbiz
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/moviefun
+Created-By: Maven Integration for Eclipse
+
